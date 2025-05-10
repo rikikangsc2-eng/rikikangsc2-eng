@@ -32,7 +32,7 @@
 
 ---
 
-### ✨ Proyek Unggulan (Opsional - Kosong jika belum ada yang ingin ditampilkan)
+### ✨ Proyek Unggulan
 
 ---
 
